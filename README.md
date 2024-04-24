@@ -1,2 +1,3 @@
 # 2048-Game
-recreates 2048 game
+
+recreates 2048 game. it is very fun
